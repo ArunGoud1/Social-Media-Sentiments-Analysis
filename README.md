@@ -5,4 +5,4 @@
 
    1) Collected Twitter data using APIs
    2) Performed NLP sentiment analysis
-       Visualized trends in Power BI
+   3) Visualized trends in Power BI
