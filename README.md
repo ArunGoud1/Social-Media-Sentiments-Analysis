@@ -3,6 +3,6 @@
 
 📱 Social Media Sentiment
 
-  Collected Twitter data using APIs
-  Performed NLP sentiment analysis
-  Visualized trends in Power BI
+   1) Collected Twitter data using APIs
+   2) Performed NLP sentiment analysis
+       Visualized trends in Power BI
